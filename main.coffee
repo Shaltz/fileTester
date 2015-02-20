@@ -9,6 +9,7 @@ engine.checkImage './media/video1.mp4'
 engine.checkImage './media/video2.m4v'
 engine.checkImage './media/video3.avi'
 engine.checkImage './media/video4.mkv'
+engine.checkImage './media/video5.gg'
 
 engine.checkImage './media/mp3-1.mp3'
 engine.checkImage './media/mp3-2.mp3'
